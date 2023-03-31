@@ -30,4 +30,7 @@
     <img src="https://replit.com/public/images/100-days-of-python/about-card.png" height="200vh">
     <h3>Replit 100 dias de Python</h3>
     <p>Curso de python em 100 dias oferecido pela plataforma <a href="https://replit.com/">replit</a></p>
+<hr>
+    <img src="https://1.bp.blogspot.com/-4CVdgWCPAEY/YE7qAc97TBI/AAAAAAAAAHg/NzvMGlXh9REyrnvMe_vjHCFGjg-EciZsQCLcBGAsYHQ/w1200-h630-p-k-no-nu/estrela_EAD.jpg" height="200vh"> 
+    <h3>Ciência da computação - UNICSUL</h3>
 </section>
