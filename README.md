@@ -1,6 +1,6 @@
 <section align="center">
 <h1>Olá, eu sou o João 👋</h1>
-<em text-align="center">Jovem na área de Ti começando a jornada no mundo tech!</em> 
+<em text-align="center">Jovem na área de Ti começando a jornada no mundo da progamação!</em> 
 <br>
 <br>
 <a href="https://files.fm/u/4rbrzp2pq#/view/20221224_210406_2.jpg"><img src="https://files.fm/thumb_show.php?i=venyc97c3" height="200vh"></a><br>
