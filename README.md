@@ -14,7 +14,7 @@
 - 🔭 Em busca de oportunidades <br>
 - 🌱 Atualmente aprendendo Python e JavaScript <br>
 - 📫 Me encontre em: joaoferreirapaula005@gmail.com <br> 
-- 🤯 Ultimo projeto concluído - <a href='https://github.com/joas005/projetosiniciais/blob/Python/Forca.py'>Jogo da forca com vários modos! / Python</a> 
+- 🤯 Ultimo projeto concluído - <a href='https://joas005.github.io/js-developer-pokedex/'>Pokedex simples responsiva usando JavaScript!</a> 
 </article>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Joas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> |
