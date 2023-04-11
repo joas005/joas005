@@ -12,7 +12,7 @@
 <hr>
 <article>
 - 🔭 Em busca de oportunidades <br>
-- Encontre meu currículo em - <a href='https://joas005.github.io/cv/'>Currículo online</a> | <a href='https://files.fm/f/esnj67fpc'>Currículo tradicional</a> <br> 
+- 📄 Encontre meu currículo em - <a href='https://joas005.github.io/cv/'>Currículo online</a> | <a href='https://files.fm/f/esnj67fpc'>Currículo tradicional</a> <br> 
 - 🌱 Atualmente aprendendo Python e JavaScript <br>
 - 📫 Me encontre em: joaoferreirapaula005@gmail.com <br> 
 - 🤯 Ultimo projeto concluído - <a href='https://joas005.github.io/js-developer-pokedex/'>Pokedex simples responsiva usando JavaScript!</a> 
