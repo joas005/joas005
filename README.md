@@ -15,7 +15,7 @@
 - 📄 Encontre meu currículo em - <a href='https://joas005.github.io/cv/'>Currículo online</a> | <a href='https://files.fm/f/esnj67fpc'>Currículo tradicional</a> <br> 
 - 🌱 Atualmente aprendendo Python e JavaScript/Angular <br>
 - 📫 Me encontre em: joaoferreirapaula005@gmail.com <br> 
-- 🤯 Ultimo projeto concluído - <a href='https://github.com/joas005/angular-blog'>Blog de notícias dinâmico usando Angular!</a> 
+- 🤯 Ultimo projeto concluído - <a href='https://github.com/joas005/mini-buzzfeed-clone'>Mini clone do Buzzfeed com angular!</a> 
 </article>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Joas-Ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> |
