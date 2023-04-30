@@ -12,7 +12,7 @@
 <hr />
 <article>
 - 🔭 Em busca de oportunidades. <br />
-- 💼 Portifólio - <a href='https://joas005.github.io/cv/' target='_blank'>joas005.github.io/portfolio/</a>
+- 💼 Portifólio - <a href='https://joas005.github.io/cv/' target='_blank'>joas005.github.io/portfolio/</a> <br />
 - 📄 Encontre meu currículo em - <a href='https://joas005.github.io/cv/' target='_blank'>Currículo online</a> | <a target='_blank' href='https://u.pcloud.link/publink/show?code=XZ2HVtVZ4wRmvTb2HMfQv4DDQmuNrbUvCUFy'>Currículo tradicional</a> <br> 
 - 🌱 Atualmente aprendendo Python e JavaScript/Angular <br>
 - 📫 Me encontre em: joaoferreirapaula005@gmail.com <br> 
