@@ -27,10 +27,6 @@
 </div>
 <section align="center">
     <h1>Cursos em andamento:</h1>
-    <img src="https://hermes.digitalinnovation.one/tracks/a123a707-54de-4a67-88ee-5c129beb14d7.png" height="200vh">
-    <h3>Potência Tech Angular Developer - Powered by iFood</h3>
-    <p>Bootcamp focado em Angular oferecido pela plataforma <a href="https://web.dio.me/">DIO</a></p>
-    <hr />
     <img src="https://replit.com/public/images/100-days-of-python/about-card.png" height="200vh">
     <h3>Replit 100 dias de Python</h3>
     <p>Curso de python em 100 dias oferecido pela plataforma <a href="https://replit.com/">replit</a></p>
