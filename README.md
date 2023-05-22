@@ -10,6 +10,15 @@
   <a href="https://www.linkedin.com/in/joao-victor-ferreira-de-paula-b59943261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </section>
 <hr />
+<br>
+<div align="center" display: "inline_block">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joas005&theme=radical&show_icons=true&hide=commits)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joas005&layout=donut&theme=radical&hide=javascript)
+  
+</div>
+<br>
 <article>
 - 🔭 Em busca de oportunidades. <br />
 - 💼 Portfólio - <a href='https://joas005.github.io/portfolio/' target='_blank'>joas005.github.io/portfolio/</a> <br />
