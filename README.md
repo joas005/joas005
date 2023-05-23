@@ -25,7 +25,7 @@
 - 📄 Encontre meu currículo em - <a href='https://joas005.github.io/cv/' target='_blank'>Currículo online</a> | <a target='_blank' href='https://u.pcloud.link/publink/show?code=XZ2HVtVZ4wRmvTb2HMfQv4DDQmuNrbUvCUFy'>Currículo tradicional</a> <br> 
 - 🌱 Atualmente aprendendo Python e JavaScript/Angular <br>
 - 📫 Me encontre em: joaoferreirapaula005@gmail.com <br> 
-- 🤯 Ultimo projeto concluído - <a href='https://github.com/joas005/conta-bancaria'>Gerenciamento bancário em pyton!</a> 
+- 🤯 Ultimo projeto concluído - <a href='https://github.com/joas005/filmes-em-python'>Filmes em pyton com requisiçôes web!</a> 
 </article>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Joas-Ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> |
