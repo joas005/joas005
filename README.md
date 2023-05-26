@@ -36,6 +36,10 @@
 </div>
 <section align="center">
     <h1>Cursos em andamento:</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWALyVHUmVaBr0hHhflgtToI0GAqTJjjTnXUxEr0ONUGjoz2CEP1YNVqUDHkWKYX4b4A&usqp=CAU" height="200vh">
+    <h3>Curso python - Solyd</h3>
+    <p>Curso gratuito de python de 8 horas oferecido pela plataforma <a href="https://solyd.com.br/">solyd</a></p>
+    <hr />
     <img src="https://replit.com/public/images/100-days-of-python/about-card.png" height="200vh">
     <h3>Replit 100 dias de Python</h3>
     <p>Curso de python em 100 dias oferecido pela plataforma <a href="https://replit.com/">replit</a></p>
