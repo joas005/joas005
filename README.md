@@ -13,8 +13,6 @@
 <br>
 <div align="center" display: "inline_block">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joas005&theme=radical&show_icons=true&hide=commits)
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joas005&layout=donut&theme=radical&hide=javascript)
   
 </div>
