@@ -34,9 +34,9 @@
 </div>
 <section align="center">
     <h1>Cursos em andamento:</h1>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWALyVHUmVaBr0hHhflgtToI0GAqTJjjTnXUxEr0ONUGjoz2CEP1YNVqUDHkWKYX4b4A&usqp=CAU" height="200vh">
-    <h3>Curso python - Solyd</h3>
-    <p>Curso gratuito de python de 8 horas oferecido pela plataforma <a href="https://solyd.com.br/">solyd</a></p>
+    <img src="https://hermes.dio.me/tracks/49c408ad-800d-416d-b77c-681add1be673.png" height="200vh">
+    <h3>Potência Tech powered by iFood | Ciências de Dados com Python - DIO</h3>
+    <p>Bootcamp gratuito de python e ciência de dados de 80 horas oferecido pela plataforma <a href="https://web.dio.me/home">DIO - Digital Innovation One</a></p>
     <hr />
     <img src="https://replit.com/public/images/100-days-of-python/about-card.png" height="200vh">
     <h3>Replit 100 dias de Python</h3>
