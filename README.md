@@ -3,7 +3,7 @@
 <em text-align="center">Jovem na área de Ti começando a jornada no mundo da progamação!</em> 
 <br />
 <br />
-<a href="https://files.fm/u/4rbrzp2pq#/view/20221224_210406_2.jpg"><img src="https://files.fm/thumb_show.php?i=venyc97c3" height="200vh"></a><br>
+<a href="https://files.fm/u/ry9kk9mtx#/view/myphoto.jpg"><img src="https://files.fm/thumb_show.php?i=ymxvwjdst" height="300vh"></a></a><br>
 <br />
 <a href="https://www.instagram.com/joaspasqualetto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaoferreirapaula005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
