@@ -2,6 +2,7 @@
 <h1>Olá, eu sou o João 👋</h1>
 <em text-align="center">Jovem na área de Ti começando a jornada no mundo da progamação!</em> 
 <br />
+<br />
 <a href="https://www.instagram.com/joaspasqualetto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaoferreirapaula005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-victor-ferreira-de-paula-b59943261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
