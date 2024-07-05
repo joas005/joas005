@@ -21,7 +21,8 @@
 - 📄 Encontre meu currículo em - <a href='https://joas005.github.io/cv/' target='_blank'>Currículo online</a> | <a target='_blank' href='http://u.pc.cd/gVkotalK'>Currículo tradicional</a> <br> 
 - 🌱 Atualmente aprendendo Python e JavaScript/Angular <br>
 - 📫 Me encontre em: joaoferreirapaula005@gmail.com <br> 
-- 🤯 Ultimo projeto concluído - <a href='https://github.com/joas005/clima-hoje'>Clima Hoje em python com requisiçôes web!</a> 
+- 🤯 Ultimo projeto concluído - <a href='https://github.com/joas005/NBA23_data_analysis'>Analise de dados da NBA utilizando Python!</a> 
+- <a href='https://nba23stats.streamlit.app'><b>VISITE O SITE</b></a>
 </article>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Joas-Ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> |
@@ -31,15 +32,6 @@
   <img align="center" alt="Joas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </div>
 <section align="center">
-    <h1>Cursos em andamento:</h1>
-    <img src="https://hermes.dio.me/tracks/49c408ad-800d-416d-b77c-681add1be673.png" height="200vh">
-    <h3>Potência Tech powered by iFood | Ciências de Dados com Python - DIO</h3>
-    <p>Bootcamp gratuito de python e ciência de dados de 80 horas oferecido pela plataforma <a href="https://web.dio.me/home">DIO - Digital Innovation One</a></p>
-    <hr />
-    <img src="https://replit.com/public/images/100-days-of-python/about-card.png" height="200vh">
-    <h3>Replit 100 dias de Python</h3>
-    <p>Curso de python em 100 dias oferecido pela plataforma <a href="https://replit.com/">replit</a></p>
-    <hr />
     <img src="https://1.bp.blogspot.com/-4CVdgWCPAEY/YE7qAc97TBI/AAAAAAAAAHg/NzvMGlXh9REyrnvMe_vjHCFGjg-EciZsQCLcBGAsYHQ/w1200-h630-p-k-no-nu/estrela_EAD.jpg" height="200vh"> 
     <h3>Ciência da computação - UNICSUL</h3>
 </section>
